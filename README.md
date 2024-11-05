@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uttam kumar Reddy</h1>
 <h3 align="center">An Enthusiast Programmer</h3>
-<img align="right" alt="Coding" width="400" src= " https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-engineer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-web-developer-coder-development-pack-design-animations-8140451.mp4">
+<img align="right" alt="Coding" width="400" src= "  https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=identityinotthere&label=Profile%20views&color=0e75b6&style=flat" alt="identityinotthere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=identityinotthere" alt="identityinotthere" /></a> </p>

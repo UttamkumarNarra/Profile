@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Java Full Stack, Web Development*
 
-- 💬 Ask me about *Java , SQL ,HTML ,CSS ,Bootstrap , Javascript*
+- 💬 Ask me about *Java , SQL ,HTML ,CSS ,Bootstrap , Javascript, Spring, SpringBoot, Microservices, ReactJs, JQuery, MySql*
 
 - 📫 How to reach me *uttamkumar.narra@gmail.com*
 
